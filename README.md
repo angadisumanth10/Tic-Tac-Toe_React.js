@@ -9,8 +9,8 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-tic-tac-toe-repo.git
-   cd your-tic-tac-toe-repo
+   git clone https://github.com/angadisumanth10/Tic-Tac-Toe_React.js.git
+   
 
 2. Install dependencies
    ```bash
