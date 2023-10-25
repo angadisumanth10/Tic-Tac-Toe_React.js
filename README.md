@@ -25,7 +25,9 @@ This will run the app in the development mode and open it in your default web br
 
 # Some Screenshots of my project..
 
-![Screenshot 1](https://github.com/angadisumanth10/Tic-Tac-Toe_React.js/assets/91518618/55023c01-ca08-4dfa-bef9-531d4bc097eb)
+
 ![Screenshot 2](https://github.com/angadisumanth10/Tic-Tac-Toe_React.js/assets/91518618/4cc8b06b-0a04-4fa3-bbc7-068f148f17bc)
 ![Screenshot 3](https://github.com/angadisumanth10/Tic-Tac-Toe_React.js/assets/91518618/18e68d85-cf95-45e6-885c-74a3e9fc0123)
+![Screenshot 4](https://github.com/angadisumanth10/Tic-Tac-Toe_React.js/assets/91518618/6ff574f1-518d-4051-9081-863c30eeaf53)
+![Screenshot 1](https://github.com/angadisumanth10/Tic-Tac-Toe_React.js/assets/91518618/55023c01-ca08-4dfa-bef9-531d4bc097eb)
 
