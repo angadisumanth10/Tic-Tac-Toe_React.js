@@ -1,5 +1,5 @@
 // Tic-Tac-Toe  by Sumanth - 23/10/2023
-
+// Run this main App.js in new terminal/ cmd
 
 
 import React, { useState } from 'react';
